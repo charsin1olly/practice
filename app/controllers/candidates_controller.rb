@@ -4,4 +4,4 @@ def index
 end
 end
 CandidatesController
-view/candidates/index.
+# view/candidates/index.
