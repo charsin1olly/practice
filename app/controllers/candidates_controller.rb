@@ -2,6 +2,10 @@ class CandidatesController < ApplicationController
 
 def index
 end
+
+
+
 end
-CandidatesController
+
+# CandidatesController
 # view/candidates/index.
